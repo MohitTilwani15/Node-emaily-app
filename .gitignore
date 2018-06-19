@@ -17,3 +17,6 @@ node_modules/
 
 # dotenv environment variables file
 .env
+
+# private keys
+config/dev.js
