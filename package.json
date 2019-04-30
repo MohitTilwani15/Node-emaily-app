@@ -39,5 +39,8 @@
     "path-parser": "^4.0.4",
     "sendgrid": "^5.2.3",
     "stripe": "^5.8.0"
+  },
+  "devDependencies": {
+    "danger": "^7.1.3"
   }
 }
